@@ -1,0 +1,21 @@
+//META{"name":"vos.club","description":"Discord theme from the creators of the vos.club ","website":" https://vosrhd9.xyz","authorId":" 345580124764372996","author":"vos9","version":"2"}*//
+
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url("https://vosrhd9.xyz/ds/vosteam.min.css");
+
+:root {
+  --themeColor1: #e21d89;
+  --themeColor2: #66d9ed;
+
+  --customFont: 'Open sans', sans-serif;
+
+  --homeImage: url('https://vosrhd9.xyz/ds/vos.png');
+  --homeImageSize: cover;
+
+  --backgroundColor: #0d0d0d;
+  --backgroundImage: url('http://hyie.000webhostapp.com/ev0lve/theme/background.png');
+  --backgroundPosition: center;
+  --backgroundSize: cover;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+}
