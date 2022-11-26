@@ -5,7 +5,8 @@
 
 :root,
 .theme-dark {
-  --themeColor1: #e21d89;
+ 
+  --themeColor1: #e21d4e;
   --themeColor2: #66d9ed;
 
   --customFont: 'Open sans', sans-serif;
@@ -13,10 +14,14 @@
   --homeImage: url('http://v0s.fun/phpmyadmin/love.png');
   --homeImageSize: cover;
 
+  --text-muted: #e21d4e;
+  --text-link: #e21d4e;
+
   --background-secondary: #0d0d0d;
   --background-secondary-alt: #0d0d0d;
   --background-floating: #0d0d0d;
   --background-primary: #0d0d0d;
+
   --backgroundColor: #0d0d0d;
   --backgroundImage: url('http://hyie.000webhostapp.com/ev0lve/theme/background.png');
   --backgroundPosition: center;
