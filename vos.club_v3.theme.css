@@ -1,7 +1,7 @@
 //META{"name":"vos.club","description":"Discord theme from the creators of the vos.club ","website":" https://vos9.xyz","authorId":" 345580124764372996","author":"vos9","version":"3"}*//
 
 @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
-@import url("https://raw.githubusercontent.com/vos1488/vosteam-ds/main/vos.club.theme.css");
+@import url("https://amelka.fun/ds/vos.club.theme.css");
 
 :root,
 .theme-dark {
@@ -10,7 +10,7 @@
   --themeColor2: #66d9ed;
 
   --customFont: 'Open sans', sans-serif;
-  --homeImage: url('https://raw.githubusercontent.com/vos1488/vosteam-ds/main/1.jpg');
+  --homeImage: url('https://amelka.fun/ds/1.jpg');
   --homeImageSize: cover;
 
   --text-muted: #e21d4e;
